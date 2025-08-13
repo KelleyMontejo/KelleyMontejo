@@ -1,5 +1,5 @@
 ## 👋 Hi ! I'm Kelley Montejo
-I'm an aspiring Cyber Security Specialist through the medical field with a passion for coding. I have prior experience in coding languages such as Java and Python and planning on exploring new languages to broaden my capabilities. I aim to bridge the gap between the rapid growth of technology and the safety and protection of crucial medical information and documents. 
+I'm an aspiring Healthcare Cybersecurity Specialist with a passion for coding. I have prior experience coding in Java and Python, and I plan to explore new languages to broaden my capabilities. I aim to bridge the gap between the rapid growth of technology and the safety and protection of crucial medical information and documents. 
 
 ## Hope to learn 💡
 By achiveing to learn more about Github i hope to expand my knowlegde of HTML, connecting with other professionals through common achomishments and intrests.
